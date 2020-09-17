@@ -16,3 +16,13 @@ your own pace.
    - 1 tbsp Vanilla Extract
    - 200 g Cooked Beetroot (chopped roughly)
    - 1 tbsp Baking Powder
+
+aangepast in branch
+
+2. INGREDIENTS FOR THE CHOCOLATE MOUSSE
+
+- 200 g Dark Chocolate
+- 150 ml Boiling Water
+- Ice
+
+aangepast in branch
